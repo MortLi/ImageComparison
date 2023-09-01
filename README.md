@@ -1,7 +1,14 @@
 # ImageComparison
 对比两张图片（前景和后景）的程序
+
+主要程序
+
 ![Snipaste_2023-09-01_16-00-49](https://github.com/MortLi/ImageComparison/assets/17809328/ce51f697-417f-42be-85cd-e27cbaf877d1)
+
+软件界面
+
 ![Snipaste_2023-09-01_16-00-59](https://github.com/MortLi/ImageComparison/assets/17809328/5f345b30-3410-4519-a8d6-20f9937c0dfc)
+
 1. 标题和版本信息：
    
    软件的名称：图片对比查看
@@ -43,6 +50,8 @@
    显示背景图：按住鼠标左键。快捷键为空格键。
 
    切换前背景图：点击切换按钮。快捷键为W键。
+
+   调整缩放倍数：在非全屏下，拖动滑动条。往右滑动增大倍数，往左滑动减小倍数。
 
    全屏显示：Q键。
 
